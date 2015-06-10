@@ -1,5 +1,5 @@
 /*
-Control the color of Fire2012 with a rotary encoder
+Control the color of Fire2012 with a rotary encoder  
 
 changed BRIGHTNESS, COOLING, and SPARKLING
         200->64     55->80       120->50
