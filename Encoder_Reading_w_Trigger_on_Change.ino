@@ -1,6 +1,6 @@
 /*
 Read regular Rotary Encoder
-This sketch can also be used for motors with Hall sensors
+This sketch can also be used for motors with Hall sensors  
 
 Interrupts:
 Board         int.0 int.1 int.2 int.3 int.4 int.5 
